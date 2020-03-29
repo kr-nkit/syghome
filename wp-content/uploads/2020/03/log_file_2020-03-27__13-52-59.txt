@@ -1,0 +1,99 @@
+
+---Downloaded files---
+The import files for: Demo 16 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost:8000
+Data file = /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin-content.xml
+Widget file = /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin-widget.wie
+Customizer file = /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin-export.dat
+Redux files:
+xamin_options -> /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin_redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "admin": Invalid post type mt_pp
+[ERROR] Failed to import "xamni-edu-01" (Media)
+[ERROR] Failed to import "xamni-edu-03.png" (Media)
+[ERROR] Failed to import "retail-bac-bnr.jpg" (Media)
+[ERROR] Failed to import "retail-02.png" (Media)
+[ERROR] Failed to import "retail-bnr-08.png" (Media)
+[ERROR] Failed to import "retail-01.png" (Media)
+[ERROR] Failed to import "retail-bnr-07.png" (Media)
+[ERROR] Failed to import "retail-bnr-09.png" (Media)
+[ERROR] Failed to import "retail-bnr-10-1.png" (Media)
+[ERROR] Failed to import "retail-bnr-10.png" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Xamin Testimonail - No Title - Imported
+Xamin Recent Post - No Title - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Navigation Menu - No Title - Imported
+Xamin Testimonail - No Title - Imported
+Xamin PDF - Downloads - Imported
+Xamin PDF - No Title - Imported
+
+Footer Area 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+Xamin Social Media - No Title - Imported
+
+Footer Area 2 : 
+
+Navigation Menu - Menu - Imported
+
+Footer Area 3 : 
+
+Navigation Menu - About us - Imported
+
+Footer Area 4 : 
+
+Xamin Contact - Contact us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: xamin_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

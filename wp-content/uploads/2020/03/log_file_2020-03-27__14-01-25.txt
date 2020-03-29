@@ -1,0 +1,56 @@
+
+---Downloaded files---
+The import files for: Demo 16 were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost:8000
+Data file = /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin-content.xml
+Widget file = /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin-widget.wie
+Customizer file = /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin-export.dat
+Redux files:
+xamin_options -> /var/www/html/wp-content/themes/xamin/inc/demo/demo-16/xamin_redux.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Xamin Testimonail - No Title - Widget already exists
+Xamin Recent Post - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Page Sidebar : 
+
+Navigation Menu - No Title - Widget already exists
+Xamin Testimonail - No Title - Widget already exists
+Xamin PDF - Downloads - Widget already exists
+Xamin PDF - No Title - Widget already exists
+
+Footer Area 1 : 
+
+Text - No Title - Widget already exists
+Text - No Title - Widget already exists
+Xamin Social Media - No Title - Widget already exists
+
+Footer Area 2 : 
+
+Navigation Menu - Menu - Widget already exists
+
+Footer Area 3 : 
+
+Navigation Menu - About us - Widget already exists
+
+Footer Area 4 : 
+
+Xamin Contact - Contact us - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: xamin_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
